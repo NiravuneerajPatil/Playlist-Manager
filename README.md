@@ -94,21 +94,9 @@ python playlist.py
 
 | Option | Action | Description |
 | --- | --- | --- |
-| **1** | `Add Song` | Prompts for track title and artist, then appends the song to the end of the playlist.
-
- |
-| **2** | `Play Current Song` | Prints the details of the currently active track.
-
- |
-| **3** | `Next Song` | Advances playback pointer to the next track if available.
-
- |
-| **4** | `Previous Song` | Moves playback pointer back to the preceding track if available.
-
- |
-| **5** | `Display Playlist` | Iterates from `head` to `tail` and prints all songs in sequential order.
-
- |
-| **6** | `Exit` | Terminates the terminal loop and closes the application.
-
- |
+| **1** | `Add Song` | Prompts for track title and artist, then appends the song to the end of the playlist.|
+| **2** | `Play Current Song` | Prints the details of the currently active track.|
+| **3** | `Next Song` | Advances playback pointer to the next track if available.|
+| **4** | `Previous Song` | Moves playback pointer back to the preceding track if available.|
+| **5** | `Display Playlist` | Iterates from `head` to `tail` and prints all songs in sequential order.|
+| **6** | `Exit` | Terminates the terminal loop and closes the application.|
